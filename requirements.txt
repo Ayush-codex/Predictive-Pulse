@@ -6,4 +6,4 @@ scipy
 pickle-mixin
 seaborn
 Flask
-gunicorn
+
